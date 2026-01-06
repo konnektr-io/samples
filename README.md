@@ -2,9 +2,11 @@
 
 This repository contains sample projects and code snippets for the Konnektr platform. Each sample is organized by language or scenario in its own subfolder.
 
+
 ## Samples
 
 - `python-device-auth`: Python sample demonstrating device authorization and API usage.
+- `python-adk-mcp`: Python sample demonstrating a graph agent implementation.
 
 ## How to use
 
